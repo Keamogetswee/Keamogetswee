@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software developer passionate about problem-solving, and back-end development with a focus on development using the Java language. I am currently advancing my knowledge in programming at WeThinkCode_ using Python and Java as my programming languages.<br><br>I am also working on advancing my skills in ReactJs and Web development using Html, CSS, and Javascript to better understand the different styles and strategies used to build quality web applications.
+I am a software developer passionate about problem-solving, and back-end development with a focus on development using the Java language. I am currently advancing my knowledge in programming using Python and Javascript as my programming languages.<br><br>I am also working on advancing my skills in ReactJs and Web development using Html, CSS, and Javascript to better understand the different styles and strategies used to build quality web applications.
 
 
 ## 🌐 Socials:
